@@ -1,4 +1,7 @@
-# Hill Climbing Algorithm for Eight Queens Problem
+## EX NO:05
+## DATE:23/5/22
+
+# <p align="center"> Hill Climbing Algorithm for Eight Queens Problem</p>
 ## AIM
 
 To develop a code to solve eight queens problem using the hill-climbing algorithm.
@@ -22,6 +25,12 @@ Display the necessary states and the time taken.
 
 
 ## PROGRAM
+```
+Developed By
+Student name : Sri Harish M
+Reg.no : 212220230047
+```
+
 ```python
 
 
